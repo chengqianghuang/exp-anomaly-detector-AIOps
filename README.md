@@ -10,3 +10,8 @@ Please log in into http://iops.ai/competition_detail/?competition_id=5&flag=1 fo
 Please check the "code" folder for details. The ipython notebook should be self-explanatory.
 
 Hope you enjoy it.
+
+Some take away from the experiments:
+* The most critical factor that determines the result is the features
+* The second critical factor is the scale of the features, different scale methods lead to very distinct results
+* The tuning of the parameters is not as critical as expected, e.g., epoches and batch size in neural network training, and thresholds selection.
