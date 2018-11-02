@@ -9,6 +9,10 @@ Please log in into http://iops.ai/competition_detail/?competition_id=5&flag=1 fo
 
 Please check the "code" folder for details. The ipython notebook should be self-explanatory.
 
+Please initialize your virtual environment with python 3.6 and then the following command in the terminal:
+$: pip install --upgrade pip
+$: pip install numpy tables pandas sklearn tensorflow keras matplotlib
+
 Hope you enjoy it.
 
 Some take away from the experiments:
